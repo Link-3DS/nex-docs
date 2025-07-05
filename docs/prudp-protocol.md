@@ -47,6 +47,9 @@
 |   2   | PACKET_DATA       |
 |   3   | PACKET_DISCONNECT |
 |   4   | PACKET_PING       |
+|   5   | PACKET_USER       |
+|   6   | PACKET_ROUTE      |
+|   7   | PACKET_RAW        |
 
 
 |    Mask       |   Description   |
