@@ -1,5 +1,7 @@
 # RMC Protocol
 
+- This is a simple remote method call protocol that lies on top of the PRUDP Protocol.
+
 ## Request Format
 
 | Type   | Description          |

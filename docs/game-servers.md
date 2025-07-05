@@ -54,6 +54,5 @@
 | Dragon Quest Builders | 2CD9DB00 | e720a303 |
 | Animal Crossing: New Horizons | 2EE2E300 | v43a10em |
 
-
 ## Switch 2
 * Soon
